@@ -5,3 +5,28 @@ text-align :center;
 .VncHeader{
 border:1px solid black;
 }
+
+.VncIntegrationSpace{
+	border:1px solid black;
+}
+
+.container {
+    width: 300px;
+    background-color: #ffcc33;
+    margin: auto;
+}
+.first {
+    width: 100px;
+    float: left;
+    height: 300px;
+        background-color: blue;
+}
+.second {
+    width: 200px;
+    float: left;
+    height: 300px;
+    background-color: green;
+}
+.clear {
+    clear: both;
+}
