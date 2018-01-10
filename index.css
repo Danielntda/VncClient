@@ -10,11 +10,11 @@ border:1px solid black;
 	border:1px solid black;
 }
 
-.container {
+/*.container {
     width: 300px;
     background-color: #ffcc33;
     margin: auto;
-}
+}*/
 .first {
     width: 100px;
     float: left;
@@ -30,3 +30,4 @@ border:1px solid black;
 .clear {
     clear: both;
 }
+
